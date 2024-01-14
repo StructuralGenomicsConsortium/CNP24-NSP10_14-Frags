@@ -13,6 +13,18 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Some people involved in this CNP:
 
+Sharifah Nur Sabrina Binti Syed Azlan, MPharm student at University College London @shanursabrina
+
+Dr Hadia Almahli, Chemist at University College London @HadiaAmahli
+
+Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
+
+Dr Santha Santhakumar, SGC (project management) @Santha-SGC 
+
+Dr. Joseph Newman, Sientist at Centre of Medicine Discovery, Oxford University, UK
+
+
+
 You can see other contributors in the Issues (tab above).
 
 The licence for the content of this project is, unless otherwise stated, and as for all OCN projects, CC-BY-4.0. This means you can do whatever you like with the project content, including making money, provided you cite the project.
