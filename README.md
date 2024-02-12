@@ -21,7 +21,7 @@ Sharifah Nur Sabrina Binti Syed Azlan, MPharm student at University College Lond
 
 Dr. Joseph Newman, Scientist at Centre for Medicines Discovery, Oxford University, UK
 
-Dr Santha Santhakumar, SGC (project management), University of Toronto @Santha-SGC 
+
 
 
 
