@@ -1,4 +1,4 @@
-# CNP9-NSP10_14-Frags
+# CNP24-NSP10_14-Frags
 An [SGC](https://www.thesgc.org/) Open Chemistry Networks Project (number 24) devoted to SARS-CoV-2 Nsp10/14. This project aims to develop small molecule binders of Nsp10/14 as starting points for medicines for future coronavirus pandemics. Our specific focus is the interface between the Nsp10 and 14 proteins, using a fragment screen as a starting point.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
