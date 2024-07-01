@@ -21,8 +21,7 @@ Sharifah Nur Sabrina Binti Syed Azlan, MPharm student at University College Lond
 
 Dr. Joseph Newman, Scientist at Centre for Medicines Discovery, Oxford University, UK
 
-
-
+Joshua Rael Hochuli, PhD student in computational Chemistry at UNC (University of North Carolina).
 
 
 You can see other contributors in the Issues (tab above).
